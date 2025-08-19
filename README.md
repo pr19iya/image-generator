@@ -14,7 +14,7 @@ Responsive Gallery: Display multiple generated images in a clean layout.
 
 Theme Toggle: Switch between dark and light modes.
 
- Secure API Handling: Keep your Hugging Face API key safe using a .env file.
+Secure API Handling: Keep your Hugging Face API key safe using a .env file.
 
 
 

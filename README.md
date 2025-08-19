@@ -20,6 +20,7 @@ Theme Toggle: Switch between dark and light modes.
 
 
 Usage
+
 Open index.html in your browser.
 
 Type your prompt or use the voice input feature.
@@ -32,6 +33,7 @@ Click Generate and wait for your AI images to appear.
 
 
 Tech Stack
+
 Frontend: HTML, CSS, JavaScript
 
 AI API: Hugging Face Inference API
